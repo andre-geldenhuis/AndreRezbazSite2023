@@ -22,7 +22,7 @@ organizations:
     url: https://www.wgtn.ac.nz/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I look after HPC and HPC users at Victoria University.  I also enjoy training users in coding in python and R.  Renently I've been interested in how tool like ChatGPT can help, and hinder, the development of people new to coding.
 
 # Interests to show in About widget
 interests:
@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Master of Science, Physics
+      institution: Canterbury University
       year: 2008
+    - course: Bachelor of Science, Physics
+      institution: Canterbury University
+      year: 2006
+    - course: bachelor of Arts, Philosophy
+      institution: Canterbury University
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
